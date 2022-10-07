@@ -45,9 +45,12 @@ body {
     border-radius: 50%;
 }
 .footer-basic {
-  padding:40px 0;
+  padding:40px 10px;
   background-color:#ffffff;
   color:#4b4c4d;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .footer-basic ul {

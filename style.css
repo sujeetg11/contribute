@@ -8,7 +8,7 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #80f6f2;
+  background-color: #84cbc8;
 }
 
 .form-signin {
@@ -17,7 +17,9 @@ body {
   padding: 15px;
   margin: auto;
 }
-
+.checkbox{
+  margin-top: 20px;
+}
 .form-signin .checkbox {
   font-weight: 400;
 }

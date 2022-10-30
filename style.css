@@ -18,10 +18,10 @@ body {
   margin: auto;
 }
 .checkbox{
-  margin-top: 20px;
+  margin-top: 21px;
 }
 .form-signin .checkbox {
-  font-weight: 410;
+  font-weight: 411;
 }
 
 .form-signin .form-floating:focus-within {
@@ -119,7 +119,7 @@ body {
 
 nav ul {
   float: right;
-  margin-right: 20px;
+  margin-right: 21px;
 }
 
 nav ul li {
@@ -136,7 +136,7 @@ nav ul li a {
   text-transform: uppercase;
 }
 
-@media (max-width: 858px) {
+@media (max-width: 859px) {
   .checkbtn {
     display: block;
   }
